@@ -1,0 +1,4 @@
+FancyGallery is an Android app written in Kotlin. The Photo Grid View displays the top 99 user-submitted
+photos retrieved from the Flickr API. Clicking on any photo will bring up tbe user's submission on the Flickr.com website. 
+The location where each photo was taken is shown on the Photo Map View.
+Launch the app by opening the FancyGallery folder in Android Studio, using File -> Open. 
